@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+npm-debug.log
+
+.eslintrc
+.editorconfig
+# code protect - prevent submit code below
+README.md
+package.json
+build/
+pm2_logs
